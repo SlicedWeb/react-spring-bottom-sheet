@@ -1,3 +1,15 @@
+# 1.0.0 (2022-07-02)
+
+
+### Bug Fixes
+
+* stuff ([33b14eb](https://github.com/SlicedWeb/react-spring-bottom-sheet/commit/33b14eb453601e58bbc0a91e98fa57f1f3d0e7e6))
+
+
+### Features
+
+* yes ([449e21e](https://github.com/SlicedWeb/react-spring-bottom-sheet/commit/449e21edbf01dc330ff5a577df3a7abcd6651667))
+
 ## [3.4.1](https://github.com/stipsan/react-spring-bottom-sheet/compare/v3.4.0...v3.4.1) (2022-06-01)
 
 
